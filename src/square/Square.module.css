@@ -1,0 +1,17 @@
+.square {
+  width: 483px;
+  height: 298px;
+  background: #676470;
+  transition: all 0.3s ease;
+  clip-path: circle(75%);
+}
+.squareHover {
+}
+
+.square:hover {
+  background: black;
+  -webkit-transform: scale(0.8);
+  -ms-transform: scale(0.8);
+  clip-path: circle(25%);
+  transform: scale(0.8);
+}
