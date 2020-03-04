@@ -1,3 +1,3 @@
-# SquareAnimation
+# RandomNumber
 Created with CodeSandbox
-Square Animation React
+Random Number React
